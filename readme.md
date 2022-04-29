@@ -1,1 +1,1 @@
-ola, aprendendo git
+ola, estamos aprendendo git
